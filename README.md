@@ -30,10 +30,11 @@ Ici, vous trouverez tout le matériel utilisé pour la formation MS Excel pour d
 <p>Dans cette troisième partie de notre formation, vous approfondirez vos connaissances de certaines des fonctionnalités les plus puissantes qu'Excel a à offrir. Lorsque vous aurez terminé avec succès cette partie, vous serez en mesure de vérifier et d'éviter les erreurs dans les feuilles de calcul ; Créer une automatisation puissante dans les feuilles de calcul ; Appliquer des formules avancées et une logique conditionnelle pour aider à prendre des décisions commerciales éclairées ; créer des feuilles de calcul qui aident à prévoir et à modéliser les données.</p>
 
 <ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Validation de données</li>
+<li>Fonctions de logique</li>
+<li>Recherche automatisée</li>
+<li>Modélisation de données</li>
+<li>Macros</li>
+<li>Tableaux de bord et reporting</li>
+<li>Prévisions sur Excel</li>
 </ol>
