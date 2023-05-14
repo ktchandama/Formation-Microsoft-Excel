@@ -18,12 +18,12 @@ Ici, vous trouverez tout le matériel utilisé pour la formation MS Excel pour d
 <p>Dans cette deuxième partie de notre formation, vous vous appuierez sur les bases solides de la première partie. Vous élargirez vos connaissances d'Excel vers de nouveaux horizons. Vous allez découvrir tout un éventail de compétences et de techniques qui deviendront un élément standard de votre utilisation quotidienne d'Excel. Dans cette partie, vous développerez une solide couche de compétences plus avancées afin de pouvoir gérer de grands ensembles de données et créer des rapports significatifs.</p>
 
 <ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Travailler avec plusieurs feuilles de calculs</li>
+<li>Manipulation des dates et textes</li>
+<li>Plages nommées</li>
+<li>Synthétiser des données</li>
+<li>Tableaux dans Excel</li>
+<li>Tableaux croisés dynamiques, graphiques et slicers</li>
 </ol>
 
 <h4>III - Microsoft Excel – Niveau Intermédiaire 2</h4>
